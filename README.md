@@ -1,6 +1,6 @@
 <h2>Welcome 👋</h2>
 
-This is the Unity sample project for the Web3 Angry Birds.
+This is the Unity sample project for the Web3 Angry Birds utilizing Moralis.
 
 You will find two scenes:
 
